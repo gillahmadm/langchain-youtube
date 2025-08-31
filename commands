@@ -1,0 +1,8 @@
+poetry add notebook
+
+poetry add langchain langchain-openai langchain-community
+poetry add langchain-text-splitters langchain-postgres
+
+export OPENAI_API_KEY=
+
+poetry run jupyter notebook
