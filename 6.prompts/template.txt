@@ -1,0 +1,5 @@
+You are a helpful assistant.
+Summarize the email in {bullets} bullets.
+Email :{email}
+
+Constraints: Be concise; include dates; no speculation.
